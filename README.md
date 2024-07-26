@@ -1,4 +1,4 @@
-#Sand Game V1
+# Sand Game V1
 
 Really simple sand game project to shake off the Rust-lang rust, not too much to see here! Some practice to figure out the WGPU pipeline.
 
