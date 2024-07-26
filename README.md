@@ -5,4 +5,4 @@ Really simple sand game project to shake off the Rust-lang rust, not too much to
 The graphics are made with Winit and WGPU. It's a texture that gets slapped onto a rectangle each frame.
 
 
-Graphics code was informed/taken from https://sotrh.github.io/learn-wgpu/.
+Graphics code was informed/copied from https://sotrh.github.io/learn-wgpu/.
